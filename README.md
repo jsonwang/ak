@@ -14,7 +14,7 @@
 #####<p><a href="http://www.github.com">github社交平台 </a>
 ####<p><a href="http://www.cocoachina.com">cocoaChina</a>
 ####<p><a href="http://blog.csdn.net/beijingak">个人博客</a> 
-####<p><a href="###https://git.oschina.net/wangcheng/NXlibBox.git ">开发常用类</a> 
+####<p><a href="https://git.oschina.net/wangcheng/NXlibBox.git ">开发常用类</a> 
 
 ####五,上线项目
 ####<p><a href="https://itunes.apple.com/cn/app/bei-wa-ting-ting-beva.fm/id482536668?l=en&mt=8">beva 系列</a> 
