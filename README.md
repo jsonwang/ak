@@ -1,2 +1,1 @@
-# ak-blog
-akblog
+# 我不是程序员我是AK
