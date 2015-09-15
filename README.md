@@ -20,7 +20,7 @@
 ####<p><a href="https://itunes.apple.com/cn/app/bei-wa-ting-ting-beva.fm/id482536668?l=en&mt=8">beva 系列</a> 
 
 ####<p><a href="https://itunes.apple.com/cn/app/bo-luo-shi-pin-geng-xin-zui/id980152169?l=en&mt=8">菠萝视频</a> 
-####<p><a href="https://itunes.apple.com/cn/app/you-pai-shi-pin-mei-yan-tie/id920301627?l=en&mt=8">优派</a> 
+####<p><a href="https://itunes.apple.com/cn/app/you-pai-shi-pin-mei-yan-tie/id920301627?l=en&mt=8">优拍</a> 
 ###<p><a href="https://itunes.apple.com/cn/app/airetalk/id495640197?l=en&mt=8">aireTalk</a> 
 ###<p><a href="https://itunes.apple.com">more</a> 
 ###六,联系方式
